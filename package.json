@@ -85,7 +85,7 @@
     "buffer-compare": "=1.0.0",
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
-    "groestl-hash-js": "https://github.com/Groestlcoin/groestl-hash-js.git",
+    "groestl-hash-js": "https://github.com/Groestlcoin/node-groestl-hash.git",
     "lodash": "=3.10.1"
   },
   "devDependencies": {
