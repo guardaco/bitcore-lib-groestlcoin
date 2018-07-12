@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-lib",
+  "name": "bitcore-lib-groestlcoin",
   "version": "0.13.19",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "BitPay <dev@bitpay.com>",
